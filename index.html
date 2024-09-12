@@ -40,7 +40,7 @@ title: Twentyone.World
                 success: function (countries) {
 
                     var basedCountries = countries.filter(function hasLink(c) {
-                        var hasLink = c.link ? true : false;
+                        var hasLink = c.link_to_public_community_group ? true : false;
                         return hasLink;
                     });
                     var basedCountryCodes = basedCountries.map(function(c) {
@@ -51,8 +51,8 @@ title: Twentyone.World
                     }
                     function getColor(iso) {
                         let country = countries.find(c => c.alpha3 == iso);
-                        if (country && country.link) {
-                            return country.external ? cWhite : cOrange;
+                        if (country && country.link_to_public_community_group) {
+                            return country.offbrand ? cWhite : cOrange;
                         }
                         return cGray;
                     }
@@ -90,10 +90,11 @@ title: Twentyone.World
                         },
                         click: function (d, path) {
                             let country = countries.find(c => c.alpha3 == d.iso);
-                            if (country.link) {
-                                window.open(country.link);
+                            if (country.link_to_public_community_group) {
+                                window.open(country.link_to_public_community_group);
                             } else {
-                                window.open('/fork');
+                                // window.open('/fork');
+                                // Do nothing.
                             }
                         }
                     });
@@ -114,7 +115,28 @@ title: Twentyone.World
 </div>
 
 <center>
-    <a href="/concept">
-        <img src="/images/concept.svg" width="69%"/>
-    </a>
+    <h3>This is NOT about meetups</h3>
+    <p>
+        For meetups, have a look at one of those:<br/>
+        <a href="https://portal.einundzwanzig.space/de/meetup/world?l=en" target="_blank">portal.einundzwanzig.space</a><br/>
+        <a href="https://bitcoin-only.com/meetups" target="_blank">bitcoin-only.com/meetups</a><br/>
+        <a href="https://bitcoinerevents.com" target="_blank">bitcoinerevents.com</a></br>
+        &hellip;or take a <a href="https://plebwalks.com" target="_blank">walk</a>.
+    </p>
+    <p>
+        This is about building communities that last. And scale.
+    </p>
+    <p>
+        <a href="/concept">
+            <button type="button" class="btn btn-primary btn-large btn-custom">Understand the Concept</button>
+        </a>
+    </p>
+
+    <p>&nbsp;</p>
+
+    <p>
+        <a href="/concept">
+            <img src="/images/concept.svg" width="69%" />
+        </a>
+    </p>
 </center>

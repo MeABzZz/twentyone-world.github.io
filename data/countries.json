@@ -6,7 +6,7 @@
     "latitude": 41,
     "longitude": 20,
     "name": "Njëzet e një",
-    "link": "https://twitter.com/_njezetenje/"
+    "link_to_public_community_group": "https://twitter.com/_njezetenje/"
   },
   {
     "country": "Algeria",
@@ -104,7 +104,7 @@
     "latitude": 47.3333,
     "longitude": 13.3333,
     "name": "EINUNDZWANZIG",
-    "link": "https://einundzwanzig.space/meetups"
+    "link_to_public_community_group": "https://einundzwanzig.space/meetups"
   },
   {
     "country": "Azerbaijan",
@@ -160,7 +160,9 @@
     "alpha3": "BEL",
     "numeric": 56,
     "latitude": 50.8333,
-    "longitude": 4
+    "longitude": 4,
+    "name": "EENENTWINTIG",
+    "link_to_public_community_group": "https://eenentwintig.net"
   },
   {
     "country": "Belize",
@@ -210,7 +212,7 @@
     "latitude": 44,
     "longitude": 18,
     "name": "Dvadeset Jedan",
-    "link": "https://twitter.com/dvadesetjedan21/"
+    "link_to_public_community_group": "https://twitter.com/dvadesetjedan21/"
   },
   {
     "country": "Botswana",
@@ -428,7 +430,7 @@
     "latitude": 45.1667,
     "longitude": 15.5,
     "name": "Dvadeset Jedan",
-    "link": "https://twitter.com/dvadesetjedan21/"
+    "link_to_public_community_group": "https://twitter.com/dvadesetjedan21/"
   },
   {
     "country": "Cuba",
@@ -452,7 +454,9 @@
     "alpha3": "CZE",
     "numeric": 203,
     "latitude": 49.75,
-    "longitude": 15.5
+    "longitude": 15.5,
+    "name": "Jednadvacet",
+    "link_to_public_community_group": "https://jednadvacet.org/"
   },
   {
     "country": "Denmark",
@@ -460,7 +464,9 @@
     "alpha3": "DNK",
     "numeric": 208,
     "latitude": 56,
-    "longitude": 10
+    "longitude": 10,
+    "name": "ENOGTYVE",
+    "link_to_public_community_group": "https://www.enogtyve.org/"
   },
   {
     "country": "Djibouti",
@@ -508,7 +514,9 @@
     "alpha3": "SLV",
     "numeric": 222,
     "latitude": 13.8333,
-    "longitude": -88.9167
+    "longitude": -88.9167,
+    "name": "VEINTIUNO",
+    "link_to_public_community_group": "https://veintiuno.world"
   },
   {
     "country": "Equatorial Guinea",
@@ -580,7 +588,9 @@
     "alpha3": "FRA",
     "numeric": 250,
     "latitude": 46,
-    "longitude": 2
+    "longitude": 2,
+    "name": "Vingt et Un",
+    "link_to_public_community_group": "https://t.me/+VSIm54rAR900Mjky"
   },
   {
     "country": "French Guiana",
@@ -638,7 +648,7 @@
     "latitude": 51,
     "longitude": 9,
     "name": "EINUNDZWANZIG",
-    "link": "https://einundzwanzig.space/meetups"
+    "link_to_public_community_group": "https://einundzwanzig.space/meetups"
   },
   {
     "country": "Ghana",
@@ -782,7 +792,9 @@
     "alpha3": "HUN",
     "numeric": 348,
     "latitude": 47,
-    "longitude": 20
+    "longitude": 20,
+    "name": "Huszonegy",
+    "link_to_public_community_group": "https://huszonegy.world/"
   },
   {
     "country": "Iceland",
@@ -856,7 +868,7 @@
     "latitude": 42.8333,
     "longitude": 12.8333,
     "name": "Ventuno",
-    "link": "https://t.me/ventunobtc"
+    "link_to_public_community_group": "https://t.me/ventunobtc"
   },
   {
     "country": "Jamaica",
@@ -1170,7 +1182,7 @@
     "latitude": 42,
     "longitude": 19,
     "name": "Dvadeset Jedan",
-    "link": "https://twitter.com/dvadesetjedan21/"
+    "link_to_public_community_group": "https://twitter.com/dvadesetjedan21/"
   },
   {
     "country": "Montserrat",
@@ -1234,7 +1246,9 @@
     "alpha3": "NLD",
     "numeric": 528,
     "latitude": 52.5,
-    "longitude": 5.75
+    "longitude": 5.75,
+    "name": "EENENTWINTIG",
+    "link_to_public_community_group": "https://eenentwintig.net"
   },
   {
     "country": "Netherlands Antilles",
@@ -1370,7 +1384,10 @@
     "alpha3": "PRY",
     "numeric": 600,
     "latitude": -23,
-    "longitude": -58
+    "longitude": -58,
+    "name": "Bitcoin Paraguay",
+    "link_to_public_community_group": "https://bitcoinparaguay.org/",
+    "offbrand": true
   },
   {
     "country": "Peru",
@@ -1402,7 +1419,9 @@
     "alpha3": "POL",
     "numeric": 616,
     "latitude": 52,
-    "longitude": 20
+    "longitude": 20,
+    "name": "Dwadzieścia Jeden",
+    "link_to_public_community_group": "https://dwadziesciajeden.pl"
   },
   {
     "country": "Portugal",
@@ -1410,7 +1429,9 @@
     "alpha3": "PRT",
     "numeric": 620,
     "latitude": 39.5,
-    "longitude": -8
+    "longitude": -8,
+    "name": "Vinte e Um",
+    "link_to_public_community_group": "https://t.me/vinteumpt"
   },
   {
     "country": "Puerto Rico",
@@ -1548,7 +1569,7 @@
     "latitude": 44,
     "longitude": 21,
     "name": "Dvadeset Jedan",
-    "link": "https://twitter.com/dvadesetjedan21/"
+    "link_to_public_community_group": "https://twitter.com/dvadesetjedan21/"
   },
   {
     "country": "Seychelles",
@@ -1580,7 +1601,9 @@
     "alpha3": "SVK",
     "numeric": 703,
     "latitude": 48.6667,
-    "longitude": 19.5
+    "longitude": 19.5,
+    "name": "Dvadsaťjeden",
+    "link_to_public_community_group": "https://www.dvadsatjeden.org/"
   },
   {
     "country": "Slovenia",
@@ -1588,7 +1611,9 @@
     "alpha3": "SVN",
     "numeric": 705,
     "latitude": 46,
-    "longitude": 15
+    "longitude": 15,
+    "name": "Bitcoin Ljubljana",
+    "link_to_public_community_group": "https://www.bitcoin-ljubljana.si/"
   },
   {
     "country": "Solomon Islands",
@@ -1652,7 +1677,9 @@
     "alpha3": "SUR",
     "numeric": 740,
     "latitude": 4,
-    "longitude": -56
+    "longitude": -56,
+    "name": "EENENTWINTIG",
+    "link_to_public_community_group": "https://eenentwintig.net"
   },
   {
     "country": "Svalbard and Jan Mayen",
@@ -1686,7 +1713,7 @@
     "latitude": 47,
     "longitude": 8,
     "name": "EINUNDZWANZIG",
-    "link": "https://einundzwanzig.space/meetups"
+    "link_to_public_community_group": "https://einundzwanzig.space/meetups"
   },
   {
     "country": "Syrian Arab Republic",
@@ -1784,7 +1811,7 @@
     "latitude": 39,
     "longitude": 35,
     "name": "Yirmibir",
-    "link": "https://t.me/YirmibirBitcoin"
+    "link_to_public_community_group": "https://yirmibir.org"
   },
   {
     "country": "Turkmenistan",
@@ -1840,7 +1867,9 @@
     "alpha3": "GBR",
     "numeric": 826,
     "latitude": 54,
-    "longitude": -2
+    "longitude": -2,
+    "link_to_public_community_group": "https://bitcoinevents.uk/uk-bitcoin-meetup-map/",
+    "offbrand": true
   },
   {
     "country": "United States",
@@ -1849,9 +1878,9 @@
     "numeric": 840,
     "latitude": 38,
     "longitude": -97,
-    "name": "TFTC",
-    "link": "https://tftc.io/",
-    "external": true
+    "name": "Citadel Dispatch",
+    "link_to_public_community_group": "https://citadeldispatch.com/",
+    "offbrand": true
   },
   {
     "country": "United States Minor Outlying Islands",
